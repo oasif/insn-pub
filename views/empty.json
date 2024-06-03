@@ -1,0 +1,20 @@
+{
+    "isOpen": [],
+    "fontFamily": "'Roboto', sans-serif",
+    "borderRadius": 12,
+    "opened": true,
+    "theme": "dark",
+    "view": {
+        "items": [
+        ],
+        "layouts": {
+        }
+    },
+    "viewRecord": {
+        "id": "df1ea9d4870781101d9555373cbb3504",
+        "name": "test1",
+        "description": ""
+    },
+    "widgets": {
+    }
+}
